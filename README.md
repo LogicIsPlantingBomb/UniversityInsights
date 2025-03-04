@@ -1,4 +1,4 @@
-# Full Stack User Registration System.
+# Full Stack User Registration System
 
 ## Overview
 This is a **Full Stack User Registration System** built with **React (Frontend) and Express.js (Backend)**. The frontend utilizes **Tailwind CSS** for styling and **Framer Motion** for animations, while the backend is powered by **Express.js, MongoDB, JWT authentication, and middleware validation**.
